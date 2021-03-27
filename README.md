@@ -1,4 +1,5 @@
 # supermall
+使用vuex，vue-router，axios来完成的一个vue项目
 
 ## Project setup
 ```
